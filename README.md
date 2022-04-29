@@ -21,6 +21,11 @@
 
   <br>
   
+  ### :dizzy: 필살기
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Po-nyo&layout=compact&theme=synthwave)
+  
+  <br>
+  
   ### :sparkles: Problem Solving
   [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=wkj1103)](https://solved.ac/wkj1103)
   
