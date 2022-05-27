@@ -3,9 +3,9 @@
 <div>
   
   ## 🌱 Growing...
-    - 웹 개발 관심있음
+    - Web Developer
   
-    - problem solving 하고 있음 (Python, Java)
+    - problem solving 흥미 있음
   
   <br>
   
