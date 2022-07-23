@@ -1,15 +1,11 @@
-<!--
-**Po-nyo/Po-nyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<!-- **Po-nyo/Po-nyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <div>
+
+  ```
+  Hi.
+  ```
   
-  ## 🌱 Growing...
-    - Web Developer
-  
-    - problem solving 흥미 있음
-  
-  <br>
-  
-  ## :star2: 주요 스킬
+  ## :star2: Skills
   
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html5&logoColor=white"/> <img src="https://img.shields.io/badge/Css-1572B6?style=flat-square&logo=Css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   
@@ -17,7 +13,7 @@
 
   <br>
   
-  ## :dizzy: 필살기
+  ## :dizzy: Languages
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Po-nyo&layout=compact&theme=synthwave)
   
   <br>
